@@ -1,7 +1,7 @@
 # Edyoda-stories
 A replica of Edyoda stories using HTML and CSS
 
-I have created this project in such a way that even if we shring the window or change the resolution a little, things remain intact and everything works seemlessly.
+I have created this project in such a way that even if we shrink the window or change the resolution a little, things remain intact and everything works seemlessly.
 
 The whole project is designed in HTML and CSS.
 
